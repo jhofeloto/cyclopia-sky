@@ -1,4 +1,4 @@
-# Eye In The Sky
+# Cyclopia Sky
 
 [Satellite Image Classification](http://inter-iit.tech/events/the-eye-in-the-sky.html), InterIIT Techmeet 2018, IIT Bombay.
 
